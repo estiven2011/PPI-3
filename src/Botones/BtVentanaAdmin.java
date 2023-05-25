@@ -20,9 +20,7 @@ public class BtVentanaAdmin {
             try {
                 nombreP = JOptionPane.showInputDialog("Ingrese el Nombre del Producto");
 
-                // chevequeeee 
-                // rongo !!!!!
-                // chanfle
+              
                 
                 if (nombreP.equals("")) {
 
