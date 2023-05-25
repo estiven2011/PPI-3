@@ -21,6 +21,7 @@ public class BtVentanaAdmin {
                 nombreP = JOptionPane.showInputDialog("Ingrese el Nombre del Producto");
 
                 //comentario clase de pablo
+                //holaa
 
                 if (nombreP.equals("")) {
 
