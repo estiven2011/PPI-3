@@ -2,6 +2,7 @@ package listasWonderP;
 
 import javax.swing.*;
 
+
 public class EstructuraLista {
 
     Nodo cabeza = new Nodo();
