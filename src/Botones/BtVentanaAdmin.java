@@ -20,6 +20,8 @@ public class BtVentanaAdmin {
             try {
                 nombreP = JOptionPane.showInputDialog("Ingrese el Nombre del Producto");
 
+                //comentario clase de pablo
+
                 if (nombreP.equals("")) {
 
                     JOptionPane.showMessageDialog(null, "El campo no puede estar vacio.");
