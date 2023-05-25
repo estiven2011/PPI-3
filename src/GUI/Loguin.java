@@ -33,7 +33,7 @@ public class Loguin extends JFrame {
         setSize(340, 700);// Establecemos el tamaño de la pantalla.
         setLayout(null);
 
-        setTitle("WonderPets"); // damos titulo personalizado a la pantalla
+        setTitle("Wonder"); // damos titulo personalizado a la pantalla
         setDefaultCloseOperation(EXIT_ON_CLOSE);// usamos la constante para el comportamientos del boton "cerrar"
                                                      // de las ventanas
 
